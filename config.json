@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcender",
+        "uuid": 41415444,
+        "checksum": "rwlqt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
